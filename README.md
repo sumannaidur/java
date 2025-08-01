@@ -1,8 +1,4 @@
-Below is a **very detailed** set of notes based on the provided document, covering every topic comprehensively without omitting any content. The notes are structured for clarity, with in-depth explanations, examples, and additional context to ensure a thorough understanding. The content is organized hierarchically, with clear headings, subheadings, and code snippets where applicable.
-
----
-
-# Comprehensive Java Programming Notes
+# Java Programming Notes
 
 ## 1. Setting Up the Java Development Environment
 
